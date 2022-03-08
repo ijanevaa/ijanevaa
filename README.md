@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isicodesstuff
-- 👀 I’m interested in data analysis and blockchain
-- 🌱 I’m currently learning Python!
+- 👀 I’m interested in web-development
+- 🌱 I’m currently learning React!
 - 💞️ I’m looking to collaborate on nothing yet - building up skills first.
 
 <!---
